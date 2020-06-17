@@ -67,4 +67,4 @@ class _VideoState extends State<VideoWidget> {
 * 具体各种使用姿势都在kla_list_item_inview_notifier_test.dart 里有详细的介绍
 
 ##### 组件工作原理
-[工作流程](https://github.com/imqiuhang/ListSingleItemInviewNotifier/blob/master/feed%E6%B5%81%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E6%8E%A7%E5%88%B6%E7%BB%84%E4%BB%B6.jpg)
+![流程图](https://github.com/imqiuhang/ListSingleItemInviewNotifier/blob/master/feed%E6%B5%81%E6%BB%9A%E5%8A%A8%E6%92%AD%E6%94%BE%E6%8E%A7%E5%88%B6%E7%BB%84%E4%BB%B6.jpg)
