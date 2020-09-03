@@ -4,7 +4,7 @@
 
 ##### 以下简称 `InviewNotifier`
 ##### 这是什么？
-> InviewNotifier是一个通用的ListView(或其他滚动容器)的item可见优先级变化(inView状态)处理组件
+> InviewNotifier是一个flutter通用的ListView(或其他滚动容器)的item可见优先级变化(inView状态)处理组件
 
 
 ##### 举个栗子
